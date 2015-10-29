@@ -22,16 +22,16 @@
 {
     'name': 'Account Move Mass Validate',
     'category': 'Localization/Account Charts',
-    'version': '8.0.0.1.0',
+    'version': '8.0.0.2.0',
     'author': '''
 Vizucom Oy,
-Oy Tawasta OS Technologies Ltd.,
+Oy Tawasta OS Technologies Ltd.
 ''',
     'license': 'AGPL-3',
     'depends': [
         'account',
     ],
     'data': [
-        'view/account_move_confirm.xml'
+        'views/account_move_validate.xml'
     ],
 }
