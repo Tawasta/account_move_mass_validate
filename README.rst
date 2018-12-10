@@ -33,6 +33,7 @@ Contributors
 
 * Jaakko Komulainen <jaakko.komulainen@vizucom.com>
 * Jarmo Kortetjärvi <jarmo.kortetjarvi@tawasta.fi>
+* Valtteri Lattu <valtteri.lattu@tawasta.fi>
 
 Maintainer
 ----------

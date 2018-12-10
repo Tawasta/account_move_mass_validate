@@ -22,7 +22,7 @@
 {
     'name': 'Account Move Mass Validate',
     'category': 'Localization/Account Charts',
-    'version': '8.0.0.2.2',
+    'version': '10.0.1.0.0',
     'author': '''
 Vizucom Oy,
 Oy Tawasta OS Technologies Ltd.

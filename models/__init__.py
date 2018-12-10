@@ -1,3 +1,3 @@
 # -*- coding: utf-8 -*-
 
-import account_move_validate
+from . import account_move_validate
